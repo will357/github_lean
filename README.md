@@ -1,2 +1,2 @@
 # github_lean
-learn the operation of git hub
+learn the operation of git hub in new branch
